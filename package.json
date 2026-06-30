@@ -1,0 +1,20 @@
+{
+  "name": "angulr",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --port 8989",
+    "fmt": "oxfmt",
+    "fmt:check": "oxfmt --check"
+  },
+  "dependencies": {
+    "vite": "^3.1.8"
+  },
+  "devDependencies": {
+    "oxfmt": "^0.57.0"
+  }
+}
